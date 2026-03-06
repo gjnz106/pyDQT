@@ -1,0 +1,10 @@
+# pyDQT Requirements
+# Python 3.7+
+
+# No external dependencies required for core functionality
+# PyRevit provides Revit API through IronPython
+
+# Optional for development/testing:
+# pytest>=6.0
+# black>=21.0
+# pylint>=2.0

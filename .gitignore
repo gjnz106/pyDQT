@@ -1,0 +1,36 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Revit
+*.rfa~
+*.rvt~
+temp/
+backup/
+
+# Logs
+*.log
+.pytest_cache/
